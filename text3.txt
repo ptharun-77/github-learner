@@ -1,1 +1,0 @@
-This is the first line of code that i was writing in the text.txt3 file
